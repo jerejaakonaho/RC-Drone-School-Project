@@ -8,6 +8,7 @@ A repo containing all the code for a RC Drone University course using Micropytho
 3. cd RC-DRONE-School-Project
 4. Create virtual environment: venv\Scripts\activate (windows)
 5. Install dependencies: pip install -r requirements.txt
-6. Run the main.py in for example Thonny IDE using MicroPython
-7. Run the laptop.py on laptop (replace ip with the one provided in Thonny after main.py is ran)
-8. GUI window opens up that registers key presses -> green led on Pico lights up if it is working.
+6. Install tkinter (sudo apt install python3-tk) on linux
+7. Run the main.py in for example Thonny IDE using MicroPython
+8. Run the laptop.py on laptop (replace ip with the one provided in Thonny after main.py is ran)
+9. GUI window opens up that registers key presses -> green led on Pico lights up if it is working.
