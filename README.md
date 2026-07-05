@@ -1,6 +1,7 @@
 # RC-Drone-School-Project
-<video src="assets/drone.mp4" controls="controls" width="100%">
-</video>
+
+Demo video: [assets/drone.mp4](assets/drone.mp4)
+
 A repo containing all the code for a RC Drone University course using Micropython as the language.
 
 # About
